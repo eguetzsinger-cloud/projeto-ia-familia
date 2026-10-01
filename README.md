@@ -1,12 +1,20 @@
-# Projeto de fluxo de IA — Direito de Família
+# Projeto de Fluxo de IA — Direito de Família
 
-Projeto acadêmico.
+Projeto acadêmico desenvolvido para a disciplina de Inteligência Artificial Jurídica.
+
+## Objetivo
+
+Construir e documentar um fluxo de trabalho com Inteligência Artificial aplicado a um caso jurídico fictício de Direito de Família.
 
 ## Estrutura
 
-- `entrada/` — entrada e relato inicial
+- `entrada/` — relato inicial do caso
 - `apoio/` — caso sanitizado e fontes
 - `docs/` — documentação, limites e especificação
 - `prompts/` — instruções utilizadas no fluxo
-- `evidencias/` — respostas, verificações, auditoria e revisão humana
-- `entrega/` — resultado final
+- `evidencias/` — registros das etapas de análise
+- `entrega/` — orientação final
+
+## Repositório
+
+[Link](https://github.com/eguetzsinger-cloud/projeto-ia-familia/)
